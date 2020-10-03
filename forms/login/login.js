@@ -11,7 +11,28 @@ function homeLoanPayment(p,r,n) {
 carLoan.onclick=function(){
   a = Number(principle.value)
   r = Number(rate.value)
+<<<<<<< HEAD
   n = Number(months.value)
   amount = carLoanPayment(a,r,n)
   answer.value = `A car loan for $${a} over ${n} months at ${r}% interest would have a monthly payment of $${amount}` 
 }
+=======
+  n = Number(years.value) * 12
+  amount = carLoanPayment(a,r,n)
+  answer.value = `A car loan for $${a} over ${n} months at ${r}% interest would have a monthly payment of $${amount}` 
+}
+
+homeLoan.onclick=function(){
+  a = Number(principle.value)
+  r = Number(rate.value)
+  n = Number(years.value) * 12
+  amount = homeLoanPayment(a,r,n)
+  answer.value = `A home loan for $${a} over ${years.value} years at ${r}% interest would have a monthly payment of $${amount}` 
+}
+
+Clear.onclick=function(){
+  principle.value = ''
+  rate.value = ''
+  years.value = ''
+}
+>>>>>>> home-loan

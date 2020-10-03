@@ -61,7 +61,11 @@
         "forms",
         "login",
         "Elements",
+<<<<<<< HEAD
         "months.json"
+=======
+        "years.json"
+>>>>>>> home-loan
       ]
     },
     {
@@ -72,6 +76,45 @@
         "Elements",
         "answer.json"
       ]
+<<<<<<< HEAD
+=======
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "login",
+        "Elements",
+        "principleLb.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "login",
+        "Elements",
+        "rateLb.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "login",
+        "Elements",
+        "yearsLb.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "login",
+        "Elements",
+        "Clear.json"
+      ]
+>>>>>>> home-loan
     }
   ],
   "class": "",
