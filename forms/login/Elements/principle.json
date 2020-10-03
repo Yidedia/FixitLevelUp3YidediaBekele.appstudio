@@ -23,26 +23,16 @@
   "fontStyle": "",
   "fontWeight": "",
   "footer": "",
-<<<<<<< HEAD
-  "header": "principle",
-=======
   "header": "",
->>>>>>> home-loan
   "headerCols": 2,
   "height": "auto",
   "hidden": "",
   "icon": "",
   "iconTitle": "",
   "id": "principle",
-<<<<<<< HEAD
-  "inputType": "text",
-  "inputmode": "",
-  "left": 62,
-=======
   "inputType": "number",
   "inputmode": "",
   "left": 61,
->>>>>>> home-loan
   "leftText": "",
   "mAll": "",
   "mBottom": "",
@@ -76,11 +66,7 @@
   "pLeft": "",
   "pRight": "",
   "pTop": "",
-<<<<<<< HEAD
-  "placeholder": "Enter text here",
-=======
   "placeholder": "",
->>>>>>> home-loan
   "popBody": "Body",
   "popClose": "hover",
   "popPosition": "",
@@ -95,11 +81,7 @@
   "spellcheck": "true",
   "step": "",
   "style": "",
-<<<<<<< HEAD
-  "top": 47,
-=======
   "top": 82,
->>>>>>> home-loan
   "validation": "",
   "value": "",
   "valueCols": 10,

@@ -23,26 +23,16 @@
   "fontStyle": "",
   "fontWeight": "",
   "footer": "",
-<<<<<<< HEAD
-  "header": "interest rate",
-=======
   "header": "",
->>>>>>> home-loan
   "headerCols": 2,
   "height": "auto",
   "hidden": "",
   "icon": "",
   "iconTitle": "",
   "id": "rate",
-<<<<<<< HEAD
-  "inputType": "text",
-  "inputmode": "",
-  "left": 60,
-=======
   "inputType": "number",
   "inputmode": "",
   "left": 62,
->>>>>>> home-loan
   "leftText": "",
   "mAll": "",
   "mBottom": "",
@@ -91,11 +81,7 @@
   "spellcheck": "true",
   "step": "",
   "style": "",
-<<<<<<< HEAD
-  "top": 125,
-=======
   "top": 170,
->>>>>>> home-loan
   "validation": "",
   "value": "",
   "valueCols": 10,
